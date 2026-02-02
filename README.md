@@ -52,13 +52,13 @@ Add this line (example):
 ````
 
 Sprint Overview
-Day	    | Task                                  |	Notes
-----------------------------------------------------------------------------------------------------
-Day 1	| Implement Footer + Commit + Deploy	|   Initial footer deployed on EC2
-Day 2	| Make Deploy Date Dynamic	            |   Added dynamic JS date and updated README
-Day 3	| Polish & Accessibility	            |   Checked mobile responsiveness and accessibility
-Day 4	| Change Tagline	                    |   Minor UI tweaks and footer styling
-Day 5	| Demo + Retro + Burndown	            |   Jira Burndown proof + final deploy
+|Day	| Task                                  |	Notes                                              |
+|:------|:-------------------------------------:| :---------------------------------------------------:|
+|Day 1	| Implement Footer + Commit + Deploy	|   Initial footer deployed on EC2                     |
+|Day 2	| Make Deploy Date Dynamic	            |   Added dynamic JS date and updated README           |
+|Day 3	| Polish & Accessibility	            |   Checked mobile responsiveness and accessibility    |
+|Day 4	| Change Tagline	                    |   Minor UI tweaks and footer styling                 |
+|Day 5	| Demo + Retro + Burndown	            |   Jira Burndown proof + final deploy                 |
 
 ## What I Learned
 - Set up a live Amazon Linux EC2 instance for hosting static files.
